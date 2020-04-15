@@ -1,0 +1,11 @@
+# .npmignore
+
+exemp
+.babelrc
+.gitignore
+webpack.config.js
+#index.html
+#node_modules
+.editorconfig
+babel.config.js
+/dist/calendar.js.map
